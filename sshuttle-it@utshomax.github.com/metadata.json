@@ -1,0 +1,8 @@
+{
+  "name": "Sshuttle It",
+  "description": "Use sshuttle to tunnel all traffic through a remote server",
+  "uuid": "sshuttle-it@utshomax.github.com",
+  "shell-version": [
+    "44"
+  ]
+}

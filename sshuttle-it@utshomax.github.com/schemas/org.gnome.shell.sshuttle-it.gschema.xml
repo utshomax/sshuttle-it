@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+    <schema id="org.gnome.shell.extensions.sshuttle-it" path="/org/gnome/shell/extensions/sshuttle-it/">
+        <key name="user" type="s">
+            <default>"user"</default>
+        </key>
+        <key name="port" type="i">
+            <default>80</default>
+        </key>
+        <key name="host" type="s">
+            <default>"127.0.0.1"</default>
+        </key>
+        <key name="use-key" type="b">
+            <default>true</default>
+        </key>
+        <key name="key-path" type="s">
+            <default>"/home/key.pem"</default>
+        </key>
+    </schema>
+</schemalist>
